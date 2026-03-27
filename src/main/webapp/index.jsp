@@ -75,7 +75,7 @@
 
     <!-- ------------------ Recommendation ------------------ -->
     <h1 class="title">recommended for you</h1>
-    <div class="movies-list">
+    <div class="masater-list">
         <button class="pre-btn"><img src="./assets/img/pre.png" alt=""></button>
         <button class="nxt-btn"><img src="./assets/img/nxt.png" alt=""></button>
         <div class="card-container">
